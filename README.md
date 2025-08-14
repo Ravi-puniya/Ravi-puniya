@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Flutter+Developer;Backend+Engineer;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurang-py&label=Profile%20views&color=0e75b6&style=flat" alt="Ravi-puniya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ravi-puniya&label=Profile%20views&color=0e75b6&style=flat" alt="Ravi-puniya" /> </p>
 
 ## 🚀 About Me
 
